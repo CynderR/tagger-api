@@ -1,3 +1,5 @@
 #1/bin/bash
-sudo service mongod start
+# install node
+# install mongodb
+sudo service mongodb start
 node server.js
